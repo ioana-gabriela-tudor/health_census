@@ -1,0 +1,55 @@
+{
+    "conditions": [
+      {
+        "name": "Thyroid",
+        "imagesrc": "https://img.freepik.com/free-vector/thyroid-concept-illustration_114360-8379.jpg",
+        "symptoms": [
+          "Fatigue",
+          "Weight gain or loss",
+          "Dry skin",
+          "Muscle weakness",
+          "Irregular menstrual periods"
+        ],
+        "prevention": [
+          "Eat a balanced diet",
+          "Exercise regularly",
+          "Get regular check-ups"
+        ],
+        "treatment": "Medication like levothyroxine may be prescribed by a doctor."
+      },
+      {
+        "name": "Diabetes",
+        "imagesrc": "https://img.freepik.com/free-vector/hand-drawn-flat-world-diabetes-day-background_23-2149128522.jpg",
+        "symptoms": [
+          "Frequent urination",
+          "Increased thirst",
+          "Blurry vision",
+          "Fatigue",
+          "Slow healing of cuts or sores"
+        ],
+        "prevention": [
+          "Maintain a healthy weight",
+          "Follow a balanced diet",
+          "Regular exercise"
+        ],
+        "treatment": "Management includes medication, insulin therapy, and lifestyle changes."
+      },
+      {
+        "name": "High Blood Pressure",
+        "imagesrc": "https://img.freepik.com/free-photo/top-view-tensiometer-checking-blood-pressure_23-2150456098.jpg",
+        "symptoms": [
+          "Headaches",
+          "Shortness of breath",
+          "Chest pain",
+          "Dizziness",
+          "Blurred or double vision"
+        ],
+        "prevention": [
+          "Reduce salt intake",
+          "Exercise regularly",
+          "Maintain a healthy weight"
+        ],
+        "treatment": "Medications like ACE inhibitors or diuretics may be prescribed."
+      }
+    ]
+  }
